@@ -1,0 +1,48 @@
+.display-2{
+    font-family: 'Berkshire Swash', cursive;;
+    font-size: 1rem;
+    color: #FF5E19;
+}
+.fs-6{
+    font-family: 'Manrope', sans-serif;
+    font-size: 1rem;
+}
+h4{
+    font-size: 1rem;
+}
+p{
+    font-size: 1rem;
+}
+h2{
+    text-decoration: wavy #FF5E19 underline;
+}
+.header{
+    background-image: url(image/bg1-pirlo.png), url(image/bg2-Neymar.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position-x: left, right;
+    margin: 0, 0;
+    background-size: 20rem;
+    background-color: #000000;
+    
+}
+.full-body{
+    font-family: 'Manrope', sans-serif;
+    background-color: #1b1b1b;
+}
+.card{
+    background-color: #0D0D0D;
+}
+.card-body {
+    color: #FFFFFF;
+    background-color: #0D0D0D;
+    
+}
+#money, #final-cost{
+    color: #FF5E19;
+} 
+.hr, .footer{
+    color: #FFFFFF;
+}
+.btn-primary:disabled{
+    background-color: #A2A9AF !important;
+}
